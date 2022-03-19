@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello world";
+    int x = 10 / 3;
+    cout << "result is : " << x;
     return 0;
 }
